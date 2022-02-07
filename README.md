@@ -1,2 +1,4 @@
 # Craigslist-Clone
-Django project
+Ability to search current Craigslist repository in a super user friendly way!
+
+
