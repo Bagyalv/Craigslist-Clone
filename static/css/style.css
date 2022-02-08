@@ -1,0 +1,15 @@
+.card {
+    height: 400px; /* Your height here */
+    overflow: hidden;
+}
+
+.card-image {
+    height: 250px; /* Your height here */
+    overflow: hidden;
+}
+
+.navbar-header {
+    background-color: aqua;
+    border-radius: 0;
+    border: 0;
+}
